@@ -25,4 +25,3 @@ Skills Demonstrated
 
 Power BI DAX Data Modeling Business Analytics Equity Fundamentals Dashboard Design
 
-<p align="center"> 📁 <a href="https://github.com/siddharthsagar77/indian-stock-market-dashboard/blob/main/Indain%20Stock%20Market.pbix">Open the .pbix</a> · 📄 <a href="https://github.com/siddharthsagar77/indian-stock-market-dashboard/blob/main/Indian-Stock-Market.pdf">Full project report (PDF)</a> </p> <p align="center"> Siddharth Sagar · <a href="https://www.linkedin.com/in/siddharth-sagar-050a70265/">LinkedIn</a> · siddharth.sagar77@gmail.com </p>
