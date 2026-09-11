@@ -156,64 +156,12 @@ This is an **Indian Stock Market Analytics Dashboard** built to analyze market t
 
 ---
 
-## 📁 Project Structure
 
-```
-Indian-Stock-Market-Dashboard/
-├── 📄 README.md                         # Project documentation
-├── 📄 LICENSE                           # MIT License
-├── 📄 CONTRIBUTING.md                   # Contribution guidelines
-│
-├── 📊 Indian_Stock_Market.pbix          # Main Power BI dashboard
-├── 📑 Indian_Stock_Market_Report.docx   # Analysis report
-│
-├── 📁 screenshots/
-│   └── 📸 stock_market_dashboard.png    # Dashboard preview
-│
-├── 📁 data/
-│   ├── nifty_50_data.csv
-│   ├── sensex_data.csv
-│   └── sector_data.csv
-│
-└── 📁 docs/
-    ├── DATA_DICTIONARY.md
-    ├── ANALYSIS_METHODOLOGY.md
-    └── INVESTMENT_GUIDELINES.md
-```
 
 ---
 
-## 🚀 How to Use
 
-### Prerequisites
-- **Power BI Desktop** (Free or Pro version)
-- Windows 10/11 or macOS
-- Minimum 4GB RAM
-- 500MB free disk space
 
-### Installation Steps
-
-1. **Download the Dashboard**
-```bash
-git clone https://github.com/YOUR-USERNAME/Indian-Stock-Market-Dashboard.git
-cd Indian-Stock-Market-Dashboard
-```
-
-2. **Install Power BI Desktop**
-- Visit: https://powerbi.microsoft.com/desktop
-- Download and install
-- Sign in with Microsoft account
-
-3. **Open Dashboard**
-- Double-click `Indian_Stock_Market.pbix`
-- Power BI will launch automatically
-- Wait for data model to load (15-30 seconds)
-
-4. **Explore Features**
-- Use date filters for time period selection
-- Click on stocks to analyze individual performance
-- Compare sectors using dropdown filters
-- View detailed metrics in tooltips
 
 ---
 
@@ -367,14 +315,7 @@ cd Indian-Stock-Market-Dashboard
 
 ---
 
-## 📚 Resources
 
-- [NSE India Official Site](https://www.nseindia.com/)
-- [BSE India Official Site](https://www.bseindia.com/)
-- [Power BI Documentation](https://docs.microsoft.com/power-bi/)
-- [Stock Market Basics](https://www.investopedia.com/)
-
----
 
 ## 🎯 Future Enhancements
 
@@ -389,19 +330,7 @@ Planned improvements:
 
 ---
 
-## 📊 Sample Metrics Tracked
 
-| Metric | Description | Use Case |
-|--------|-------------|----------|
-| **Price Change %** | Daily/weekly/monthly price movement | Trend analysis |
-| **Volume Trend** | Trading volume analysis | Momentum confirmation |
-| **P/E Ratio** | Price-to-Earnings ratio | Valuation assessment |
-| **Dividend Yield** | Annual dividend return % | Income investing |
-| **52-Week High/Low** | Price range analysis | Support/resistance |
-| **Market Cap** | Company market capitalization | Size classification |
-| **Beta** | Volatility vs market | Risk measurement |
-
----
 
 ## 🎓 Educational Value
 
@@ -437,7 +366,6 @@ Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidel
 
 For questions or feedback:
 - GitHub Issues: [Report bugs or suggest features](https://github.com/YOUR-USERNAME/Indian-Stock-Market-Dashboard/issues)
-- Portfolio: [Your Portfolio Link]
 - LinkedIn: [Your LinkedIn Profile]
 
 ---
